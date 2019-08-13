@@ -6,7 +6,28 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Redirection",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "Authentication",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      },
+      {
+        "title": "FormLoad",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 2
+      },
+      {
+        "title": "FormUpdate",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 3
+      }
+    ],
     "reviewer": "Chris"
   }
 }
